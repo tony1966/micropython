@@ -1,4 +1,5 @@
 #main.py
+#not applicable for ESP-01 module (no onboard LED)
 from machine import Pin,PWM
 import network
 import time
